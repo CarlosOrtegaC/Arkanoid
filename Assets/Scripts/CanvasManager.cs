@@ -8,5 +8,6 @@ public class CanvasManager : MonoBehaviour
     public void ClickButtonReset()
     {
         SceneManager.LoadScene(0);
+
     }
 }
